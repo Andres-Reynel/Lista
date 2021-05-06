@@ -1,0 +1,7 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="RCN HD" group-title="Channels",RCN HD
+http://172.16.0.230:9981/stream/channelid/1771653635?ticket=70DE5D2DD420574C1916FD683183B5B111B85772&profile=pass
+
+#EXTINF:-1 tvg-id="CARACOL Tv" group-title="Channels",CARACOL
+http://172.16.0.230:9981/stream/channelid/456588310?ticket=41F4F845FE4BD1635C725446DAE4E2EE7B316563&profile=pass
